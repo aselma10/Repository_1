@@ -1,0 +1,6 @@
+<php
+
+
+$sentence = "lalalalala";
+
+?>
