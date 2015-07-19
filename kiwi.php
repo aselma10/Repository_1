@@ -1,5 +1,8 @@
 <php
 
-echo "lalala";
+include 'kiwi2.php';
+
+
+echo $sentence;
 
 ?>
